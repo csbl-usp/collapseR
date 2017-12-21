@@ -1,0 +1,12 @@
+Package: collapseR
+Title: Collapse and filter tables
+Version: 0.1.0
+Authors@R: person("Leonardo", "Gama", email = "leonardo.reis.gama@gmail.com", role = c("aut", "cre"))
+Description: Functions to format tables, collapse (summarize) columns and rows and filter observations.
+Depends:
+    R (>= 3.2.2)
+Imports:
+    data.table (>= 1.5),
+License: MIT
+LazyData: true
+RoxygenNote: 5.0.1
